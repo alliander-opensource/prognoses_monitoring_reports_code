@@ -30,5 +30,7 @@ This project is licensed under the Apache License 2.0 - see [LICENSE](LICENSE) f
 Please read [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
 ## Contact
-
-Bram.van.Vugt@tennet.eu or jan.maarten.van.doorn@alliander.com
+This repository is maintained by Korte Termijn Prognoses:
+korte.termijn.prognoses@alliander.com
+It was forked from a repo made by Tennet, which is created by:
+Bram.van.Vugt@tennet.eu
